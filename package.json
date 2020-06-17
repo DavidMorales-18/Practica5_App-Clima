@@ -1,0 +1,25 @@
+{
+  "name": "05_clima",
+  "version": "1.0.0",
+  "description": "clima servicios",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "David Morales",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.19.2",
+    "colors": "^1.4.0",
+    "yargs": "^15.3.1"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DavidMorales-18/Practica5_App-Clima.git"
+  },
+  "bugs": {
+    "url": "https://github.com/DavidMorales-18/Practica5_App-Clima/issues"
+  },
+  "homepage": "https://github.com/DavidMorales-18/Practica5_App-Clima#readme"
+}
